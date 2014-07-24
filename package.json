@@ -1,0 +1,16 @@
+{
+  "author": "Branden Dane <Branden@DaneTheory.com> (http://www.danetheory.com)",
+  "name": "nagaa.danedev.com",
+  "description": "NAGAA NodeJS Package",
+  "version": "0.0.1",
+  "homepage": "nagaa.danedev.com",
+  "repository": {
+    "url": ""
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
